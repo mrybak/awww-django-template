@@ -26,5 +26,6 @@ AWWW exams starter kit*
   - `chmod 700 manage.py`
   - `python manage.py syncdb`
 
-*\* Disclaimer:*
-*Using this template is **officially allowed by professors**. I am not responsible for any technical or other problems caused by using this template. *
+
+*\* Disclaimer:
+Using this template is **officially allowed by professors**. I am not responsible for any technical or other problems caused by using this template.*
