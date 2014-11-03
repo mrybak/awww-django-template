@@ -1,4 +1,4 @@
-AWWW exams starter kit*
+AWWW exams starter kit
 ====================
 
 ### Includes (most up-to-date versions if not stated otherwise):
@@ -27,5 +27,5 @@ AWWW exams starter kit*
   - `python manage.py syncdb`
 
 
-*\* Disclaimer:
+*Disclaimer:
 Using this template is **officially allowed by professors**. I am not responsible for any technical or other problems caused by using this template.*
