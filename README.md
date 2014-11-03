@@ -28,4 +28,4 @@ AWWW exams starter kit
 
 
 *Disclaimer:
-Using this template is **officially allowed by professors**. I am not responsible for any technical or other problems caused by using this template.*
+Using this template is officially allowed by professors. I am not responsible for any technical or other problems caused by using this template.*
